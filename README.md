@@ -209,6 +209,7 @@ keyboard
 pydirectinput
 opencv-python(cv2)
 numpy
+screeninfo
 ```
 
 
