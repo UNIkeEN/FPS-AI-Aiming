@@ -1,0 +1,4 @@
+__pycache__/
+ultralytics/yolov5/
+docs（PPT 演示和报告）/
+bin/__pycache__/
